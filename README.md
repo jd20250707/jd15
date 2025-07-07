@@ -15,4 +15,4 @@
 为了提高观看体验，优质站点会提供多种播放方式，包括在线播放和磁力下载两种选择。在线播放适合希望立即观看的用户，而磁力下载则适合那些想要离线观看的用户。视频加载速度和播放流畅度也是衡量站点质量的关键。很多站点会采用海外服务器或CDN加速技术，确保视频能够快速加载，并且无卡顿现象。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd15 ）</span>
